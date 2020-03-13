@@ -16,13 +16,13 @@ https://www.oracle.com/java/technologies/javase-downloads.html
 1. 다운로드 받은 파일을 실행하여 next버튼을 누른다. 
 <img src="https://user-images.githubusercontent.com/53217674/76597696-71d22380-6544-11ea-9d39-26932e20174e.png"></img><br/>
 
-2. Development Tools를 설치한다.. 일반적으로 기본 폴더에 설치해도 상관없으나, 어떤 프로그램은 공란을 인식하지 못하는 프로그램(특히 리눅스 호환관련)이 있어서 가능하면 공란이 없고 설치 경로를 짧게 잡는 것이 유리하다. 그렇기 때문에 Program Files를 지우고 next를 누른다.
+2. Development Tools를 설치한다.. 일반적으로 기본 폴더에 설치해도 상관없으나, 어떤 프로그램은 공란을 인식하지 못하는 프로그램(특히 리눅스 호환관련)이 있어서 가능하면 공란이 없고 설치 경로를 짧게 잡는 것이 유리하다. 그렇기 때문에 Program Files를 지우고 next를 누른다. 
 <img src=https://user-images.githubusercontent.com/53217674/76597697-71d22380-6544-11ea-8a0d-2a80365ce526.png></img><br/>
 
-3. jre은 특별히 문제가 없으므로 기본 설치 폴더에서 다음을 눌러 진행한다.
+3. jre은 특별히 문제가 없으므로 기본 설치 폴더에서 다음을 눌러 진행한다. 
 <img src="https://user-images.githubusercontent.com/53217674/76597698-726aba00-6544-11ea-86c0-86abc09d73f0.png"></img><br/>
 
-4. Close버튼을 눌러 설치를 완료한다.
+4. Close버튼을 눌러 설치를 완료한다. 
 <img src="https://user-images.githubusercontent.com/53217674/76597702-73035080-6544-11ea-979c-02ee8f4a4c1d.png"></img><br/>
 
 
@@ -44,16 +44,16 @@ https://www.oracle.com/java/technologies/javase-downloads.html
 JAVA 컴파일러와 클래스 파일 로더 등을 아무 위치에서나 사용하고 싶다면 Path에 이 프로그램들이 있는 경로를 지정해줘야 한다.
 JAVA의 프로그램들을 사용하기 위해 jdk 폴더 안에 있는 bin 폴더를 Path에 등록시켜줘야 한다.
 
-1. 윈도우 버튼 옆의 돋보기를 클릭하여 환경 변수를 입력 후 **시스템 환경 변수 편집**을 누른다.
+1. 윈도우 버튼 옆의 돋보기를 클릭하여 환경 변수를 입력 후 **시스템 환경 변수 편집**을 누른다. 
 <img src="https://user-images.githubusercontent.com/53217674/76597703-739be700-6544-11ea-969b-ed184e14d630.png"></img><br/>
 
-2. 시스템 변수에서 **새로 만들기** 버튼을 누른다.
+2. 시스템 변수에서 **새로 만들기** 버튼을 누른다. 
 <img src="https://user-images.githubusercontent.com/53217674/76597705-739be700-6544-11ea-9389-d6e6832cf8a8.png"></img><br/>
 
-3. 새 시스템 변수 창이 뜨면 **변수 이름**에 JAVA_HOME을 입력하고 **변수 값**에 JAVA가 설치된 디렉토리를 입력 후 확인 버튼을 누른다. 이는 JAVA 프로그램의 홈 경로를 말한다.
+3. 새 시스템 변수 창이 뜨면 **변수 이름**에 JAVA_HOME을 입력하고 **변수 값**에 JAVA가 설치된 디렉토리를 입력 후 확인 버튼을 누른다. 이는 JAVA 프로그램의 홈 경로를 말한다. 
 <img src="https://user-images.githubusercontent.com/53217674/76597706-74347d80-6544-11ea-8aec-4c1ad785fe29.png"></img><br/>
 
-4. 다음은 Path를 설정한다. 시스템 변수 안의 **Path**를 클릭하고 편집 버튼을 누른다.
+4. 다음은 Path를 설정한다. 시스템 변수 안의 **Path**를 클릭하고 편집 버튼을 누른다. 
 <img src="https://user-images.githubusercontent.com/53217674/76597707-74347d80-6544-11ea-8043-95adcc21ecc6.png"></img><br/>
 
 5. 환경 변수 편집 창이 열리면 **새로 만들기**를 누르고 JAVA 설치 경로 밑의 bin까지 입력 후 확인 버튼을 누른다.          
