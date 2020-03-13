@@ -22,7 +22,7 @@ https://www.oracle.com/java/technologies/javase-downloads.html
 3. jre은 특별히 문제가 없으므로 기본 설치 폴더에서 다음을 눌러 진행한다.
 <img src="https://user-images.githubusercontent.com/53217674/76597698-726aba00-6544-11ea-86c0-86abc09d73f0.png"></img><br/>
 
-4. Close를 눌러 설치를 완료한다.
+4. Close버튼을 눌러 설치를 완료한다.
 <img src="https://user-images.githubusercontent.com/53217674/76597702-73035080-6544-11ea-979c-02ee8f4a4c1d.png"></img><br/>
 
 
