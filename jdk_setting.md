@@ -17,8 +17,7 @@ https://www.oracle.com/java/technologies/javase-downloads.html
 <img src="https://user-images.githubusercontent.com/53217674/76597696-71d22380-6544-11ea-9d39-26932e20174e.png"></img><br/>
 
 2. Development Tools를 설치하면 된다. 일반적으로 기본 폴더에 설치해도 상관없으나, 어떤 프로그램은 공란을 인식하지 못하는 프로그램(특히 리눅스 호환관련)이 있어서 가능하면 공란이 없고 설치 경로를 짧게 잡는 것이 유리하다. 그렇기 때문에 Program Files를 지우고 next를 누른다.
-
-<img src="https://user-images.githubusercontent.com/53217674/76597697-71d22380-6544-11ea-8a0d-2a80365ce526.png"></img><br/>
+<img src=https://user-images.githubusercontent.com/53217674/76597697-71d22380-6544-11ea-8a0d-2a80365ce526.png></img><br/>
 
 3. jre은 특별히 문제가 없으므로 기본 설치 폴더에서 다음을 눌러 진행한다.
 <img src="https://user-images.githubusercontent.com/53217674/76597698-726aba00-6544-11ea-86c0-86abc09d73f0.png"></img><br/>
