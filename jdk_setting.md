@@ -64,6 +64,8 @@ JAVA의 프로그램들을 사용하기 위해 jdk 폴더 안에 있는 bin 폴�
 <img src="https://user-images.githubusercontent.com/53217674/76597705-739be700-6544-11ea-9389-d6e6832cf8a8.png"></img><br/>
 
 7. 새 시스템 변수 창이 뜨면 **변수 이름**에 CLASSPATH **변수 값**에.;%JAVA_HOME%\lib\tools.jar를 입력하고 확인 버튼을 누른다.
+<img src=https://user-images.githubusercontent.com/53217674/76597711-74cd1400-6544-11ea-834b-e541b4604b79.png></img><br/>
+
 
 ## 4. 확인 과정
 ### 버전 확인하기
