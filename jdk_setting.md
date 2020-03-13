@@ -4,7 +4,7 @@
 https://www.oracle.com/java/technologies/javase-downloads.html      
 
 
-2. JAVA 8 버전의 JDK Download를 클릭한다. 
+2. JAVA 8 버전의 JDK Download를 클릭한다.
 <img src="https://user-images.githubusercontent.com/53217674/76597691-70a0f680-6544-11ea-80f0-d6a42056736c.png"></img><br/>
 
 
@@ -16,13 +16,13 @@ https://www.oracle.com/java/technologies/javase-downloads.html
 1. 다운로드 받은 파일을 실행하여 next버튼을 누른다. 
 <img src="https://user-images.githubusercontent.com/53217674/76597696-71d22380-6544-11ea-9d39-26932e20174e.png"></img><br/>
 
-2. Development Tools를 설치한다.. 일반적으로 기본 폴더에 설치해도 상관없으나, 어떤 프로그램은 공란을 인식하지 못하는 프로그램(특히 리눅스 호환관련)이 있어서 가능하면 공란이 없고 설치 경로를 짧게 잡는 것이 유리하다. 그렇기 때문에 Program Files를 지우고 next를 누른다. 
+2. Development Tools를 설치한다.. 일반적으로 기본 폴더에 설치해도 상관없으나, 어떤 프로그램은 공란을 인식하지 못하는 프로그램(특히 리눅스 호환관련)이 있어서 가능하면 공란이 없고 설치 경로를 짧게 잡는 것이 유리하다. 그렇기 때문에 Program Files를 지우고 next 버튼을 눌러서 설치를 진행한다.
 <img src=https://user-images.githubusercontent.com/53217674/76597697-71d22380-6544-11ea-8a0d-2a80365ce526.png></img><br/>
 
 3. jre은 특별히 문제가 없으므로 기본 설치 폴더에서 다음을 눌러 진행한다. 
 <img src="https://user-images.githubusercontent.com/53217674/76597698-726aba00-6544-11ea-86c0-86abc09d73f0.png"></img><br/>
 
-4. Close버튼을 눌러 설치를 완료한다. 
+4. 설치 진행이 끝나면 Close버튼을 눌러 설치를 완료한다. 
 <img src="https://user-images.githubusercontent.com/53217674/76597702-73035080-6544-11ea-979c-02ee8f4a4c1d.png"></img><br/>
 
 
@@ -63,7 +63,7 @@ JAVA의 프로그램들을 사용하기 위해 jdk 폴더 안에 있는 bin 폴�
 6. 마지막으로 CLASSPATH를 설정한다. 이는 컴파일하거나 실행 시 참조하는 클래스나 라이브러리 위치를 지정하는 것이다. 시스템 변수의 **새로 만들기** 버튼을 누른다.
 <img src="https://user-images.githubusercontent.com/53217674/76597705-739be700-6544-11ea-9389-d6e6832cf8a8.png"></img><br/>
 
-7. 새 시스템 변수 창이 뜨면 **변수 이름**에 CLASSPATH **변수 값**에.;%JAVA_HOME%\lib\tools.jar를 입력하고 확인 버튼을 누른다.
+7. 새 시스템 변수 창이 뜨면 **변수 이름**에 CLASSPATH **변수 값**에.;%JAVA_HOME%\lib\tools.jar를 입력한다. 이후 확인 버튼을 눌러서 CLASSPATH 편집을 완료한다.
 <img src=https://user-images.githubusercontent.com/53217674/76597711-74cd1400-6544-11ea-834b-e541b4604b79.png></img><br/>
 
 
