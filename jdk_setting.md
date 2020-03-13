@@ -1,28 +1,30 @@
 # jdk 설치 및 설정
 ## 1. jdk 다운로드
-https://www.oracle.com/java/technologies/javase-downloads.html      
 1. jdk를 다운로드 하기 위해 위의 주소로 접속한다.
+https://www.oracle.com/java/technologies/javase-downloads.html      
 
-<img src="https://user-images.githubusercontent.com/53217674/76597691-70a0f680-6544-11ea-80f0-d6a42056736c.png"></img><br/>
 
 2. JAVA 8 버전의 JDK Download를 클릭한다. 
+<img src="https://user-images.githubusercontent.com/53217674/76597691-70a0f680-6544-11ea-80f0-d6a42056736c.png"></img><br/>
 
-<img src="https://user-images.githubusercontent.com/53217674/76597693-71398d00-6544-11ea-8cba-c27bb1f97a3f.png"></img><br/>
 
 3. 운영체제에 맞는 파일을 다운로드한다. 여기에서는 윈도우 64비트 파일을 다운로드하기로 한다.
+<img src="https://user-images.githubusercontent.com/53217674/76597693-71398d00-6544-11ea-8cba-c27bb1f97a3f.png"></img><br/>
+
 
 ## 2. jdk 설치
+1. 다운로드 받은 파일을 실행하여 next버튼을 누른다. 
 <img src="https://user-images.githubusercontent.com/53217674/76597696-71d22380-6544-11ea-9d39-26932e20174e.png"></img><br/>
-다운로드 받은 파일을 실행하여 next버튼을 누른다.
 
+2. Development Tools를 설치하면 된다. 일반적으로 기본 폴더에 설치해도 상관없으나, 어떤 프로그램은 공란을 인식하지 못하는 프로그램(특히 리눅스 호환관련)이 있어서 가능하면 공란이 없고 설치 경로를 짧게 잡는 것이 유리하다. 그렇기 때문에 Program Files를 지우고 next를 누른다. 
 <img src="https://user-images.githubusercontent.com/53217674/76597697-71d22380-6544-11ea-8a0d-2a80365ce526.png"></img><br/>
-Development Tools를 설치하면 된다. 일반적으로 기본 폴더에 설치해도 상관없으나, 어떤 프로그램은 공란을 인식하지 못하는 프로그램(특히 리눅스 호환관련)이 있어서 가능하면 공란이 없고 설치 경로를 짧게 잡는 것이 유리하다. 그렇기 때문에 Program Files를 지우고 next를 누른다.
 
+3. jre은 특별히 문제가 없으므로 기본 설치 폴더에서 다음을 눌러 진행한다.
 <img src="https://user-images.githubusercontent.com/53217674/76597698-726aba00-6544-11ea-86c0-86abc09d73f0.png"></img><br/>
-jre은 특별히 문제가 없으므로 기본 설치 폴더에서 다음을 눌러 진행한다.
 
+4. Close를 눌러 설치를 완료한다.
 <img src="https://user-images.githubusercontent.com/53217674/76597702-73035080-6544-11ea-979c-02ee8f4a4c1d.png"></img><br/>
-Close를 눌러 설치를 완료한다.
+
 
 ## 3. 환경변수 설정
 ### 환경변수란?
