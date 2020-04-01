@@ -1,6 +1,6 @@
 # MySQL 5.6 설치 및 세팅
 ### DBMS
-Data Base Management System
+Data Base Management System (DB Server + Client tool) 
 
 ### 설치 및 세팅
 1. 다운로드 : 커뮤니티 GPL 버전으로 다운로드
@@ -197,4 +197,3 @@ Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
 
 mysql>
 ```
-
